@@ -18,3 +18,5 @@ Route::get('/', function () {
 Route::get('awesome', function(){
 	echo 'rad';
 });
+
+Route::get('new', function(){ echo 'new'; });
