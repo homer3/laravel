@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<tests>
+ <testCaseClass name="Tests\Unit\ExampleTest">
+  <testCaseMethod name="testBasicTest" groups="default"/>
+ </testCaseClass>
+ <testCaseClass name="Tests\Feature\ExampleTest">
+  <testCaseMethod name="testBasicTest" groups="default"/>
+ </testCaseClass>
+</tests>

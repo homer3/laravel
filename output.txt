@@ -1,0 +1,17 @@
+PHPUnit 7.3.5 by Sebastian Bergmann and contributors.
+
+.F                                                                  2 / 2 (100%)
+
+Time: 96 ms, Memory: 12.00MB
+
+There was 1 failure:
+
+1) Tests\Feature\ExampleTest::testBasicTest
+Expected status code 302 but received 200.
+Failed asserting that false is true.
+
+/Users/tony/Sites/larahomer/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestResponse.php:124
+/Users/tony/Sites/larahomer/tests/Feature/ExampleTest.php:19
+
+FAILURES!
+Tests: 2, Assertions: 2, Failures: 1.

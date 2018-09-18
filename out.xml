@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+  <test className="Tests\Unit\ExampleTest" methodName="testBasicTest" prettifiedClassName="Unit\Example" prettifiedMethodName="Basic test" status="0" time="0.048372030258179" size="-1" groups="default"/>
+  <test className="Tests\Feature\ExampleTest" methodName="testBasicTest" prettifiedClassName="Feature\Example" prettifiedMethodName="Basic test" status="3" time="0.019028186798096" size="-1" groups="default" exceptionLine="19" exceptionMessage="Expected status code 302 but received 200.&#10;Failed asserting that false is true."/>
+</tests>
