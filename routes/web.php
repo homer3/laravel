@@ -21,6 +21,7 @@ Route::get('awesome', function(){
 });
 
 
+
 Route::get('new', function(){ echo 'new'; });
 
 
